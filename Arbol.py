@@ -1,3 +1,6 @@
+# Autor: Esteban Francisco Janiot River cod:2191593
+# Autor: Santiago Andrés Moreno cod:2221879
+
 class Nodo:
     def __init__(self, valor):
         self.valor = valor
