@@ -1,4 +1,6 @@
 # pip install bigtree
+# Autor: Esteban Francisco Janiot River cod:2191593
+# Autor: Santiago Andrés Moreno cod:2221879
 
 from bigtree import Node, print_tree
 
